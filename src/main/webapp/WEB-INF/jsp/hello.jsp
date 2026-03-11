@@ -1,7 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" %>
 <html>
 <head>
-    <title>Jenkins Pipeline Demo</title>
+    <title>Jenkins Pipeline Demo CHANGED</title>
 </head>
 <body>
 
