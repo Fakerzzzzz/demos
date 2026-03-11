@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         // The directory where your built project will be copied
-        DEPLOY_DIR = 'C:\tomcat10\webapps'
+        DEPLOY_DIR = 'C:\\tomcat10\\webapps'
         // Ensure Maven is in your system PATH or defined in Jenkins Global Tool Configuration
     }
 
